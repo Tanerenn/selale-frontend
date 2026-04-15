@@ -133,7 +133,7 @@ export default function Anasayfa() {
       symptoms: ["Sürekli çınlama veya vızıltı", "Konsantrasyonda sorun", "Uyku problemleri", "Anksiyete"]
     },
     {
-      name: "Yaşlanmaya Bağlı İşitme Kaybı",
+      name: "Yaşlanmaya Bağlı İşitme Kaybı Test",
       icon: "👵",
       shortDesc: "Presbiakuzi",
       description: "Yaşla birlikte işitme yetisinin doğal olarak zayıflaması. En yaygın işitme problemidir.",
